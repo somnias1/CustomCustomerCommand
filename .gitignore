@@ -1,0 +1,4 @@
+*.sqlite3
+API/__pycache__/*
+API/migrations/*
+Customer/__pycache__/*
